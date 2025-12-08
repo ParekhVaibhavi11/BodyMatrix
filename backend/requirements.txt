@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-jose[cryptography]
+passlib[bcrypt]
+pydantic
+motor        # async MongoDB driver
+python-multipart
+opencv-python
+mediapipe
+numpy
+python-dotenv
